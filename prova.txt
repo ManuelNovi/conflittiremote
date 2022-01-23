@@ -1,1 +1,3 @@
 stato iniziale mod B
+stato iniziale mod A
+
